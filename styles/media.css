@@ -30,6 +30,7 @@
         flex-direction: column;
         height: 69rem;
         width: 37rem;
+        top: 5%;
     }
     .image-wrapper {
         display: none;
