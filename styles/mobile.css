@@ -2,6 +2,9 @@
     html {
         font-size: 10px;
     }
+    .container {
+        top: 5%;
+    }
     .card-button.adaptive-mobile {
         display: flex;
     }
