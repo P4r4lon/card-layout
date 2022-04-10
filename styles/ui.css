@@ -90,7 +90,6 @@
     display: block;
     padding: 1rem;
     font-size: 1.5rem;
-    max-height: 3.7rem;
     font-weight: bold;
     transition: color .3s ease-in-out, background-color .3s ease-in-out;
 }
