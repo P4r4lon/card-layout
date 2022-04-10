@@ -74,6 +74,7 @@
     }
     .button-wrapper {
         margin-top: 0;
+        margin-left: 1.5rem;
     }
     .adaptive-pc {
         display: none;
